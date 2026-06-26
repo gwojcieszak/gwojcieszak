@@ -63,13 +63,3 @@ Pinned repositories in this portfolio:
 ## Connect
 
 - **Based in** New York, NY · open to travel · remote-friendly
-To put it on GitHub without ever handling a file:
-
-Go to github.com/gwojcieszak/gwojcieszak
-Tap the README.md file to open it
-Tap the pencil icon (edit)
-Select all the existing text and delete it, then paste what you copied above
-Tap Commit changes
-
-That's it — no download, no save, no file type to worry about. This works on a phone too.
-If you'd still rather have an openable file, tell me and I'll save it as a plain .txt instead, which opens on any device — you'd just rename it to README.md at the GitHub end.
