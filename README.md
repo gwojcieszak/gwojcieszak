@@ -1,6 +1,6 @@
 # Greg Wojcieszak
 
-### Enterprise Transformation &amp; Delivery Leadership &nbsp;|&nbsp; PMO · SAP S/4HANA · Workday · Process Intelligence
+### Enterprise Transformation & Delivery Leadership &nbsp;|&nbsp; PMO · SAP S/4HANA · Workday · Process Intelligence
 
 Director-level program and transformation leader who turns complex, cross-functional change into governed, on-time delivery. I build the operating models, governance, and delivery playbooks that move enterprise programs from strategy to measurable outcomes — across both internal transformation and client-facing engagement delivery.
 
@@ -10,14 +10,14 @@ This profile is a working **portfolio of genericized, reusable delivery artifact
 
 ## What I do
 
-- **Enterprise transformation &amp; operating-model design** — PMO stand-up, governance, stage-gate delivery, benefits realization
-- **ERP &amp; finance transformation** — SAP S/4HANA and Workday program delivery, cutover &amp; hypercare, test strategy
-- **Engagement &amp; delivery management** — client-facing delivery leadership across matrixed teams, with scope, schedule, and financial ownership
-- **Process intelligence &amp; automation** — process mining, BPMN modeling, and RPA-enabled process redesign
+- **Enterprise transformation & operating-model design** — PMO stand-up, governance, stage-gate delivery, benefits realization
+- **ERP & finance transformation** — SAP S/4HANA and Workday program delivery, cutover & hypercare, test strategy
+- **Engagement & delivery management** — client-facing delivery leadership across matrixed teams, with scope, schedule, and financial ownership
+- **Process intelligence & automation** — process mining, BPMN modeling, and RPA-enabled process redesign
 
 ---
 
-## Platforms &amp; tools
+## Platforms & tools
 
 ![SAP S/4HANA](https://img.shields.io/badge/SAP_S%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![Workday](https://img.shields.io/badge/Workday-F89C1C?style=flat-square&logo=workday&logoColor=white)
@@ -29,37 +29,6 @@ This profile is a working **portfolio of genericized, reusable delivery artifact
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-## Methods &amp; certifications
+## Certifications
 
 ![PMP](https://img.shields.io/badge/PMP-Certified-0A66C2?style=flat-square)
-![SAFe](https://img.shields.io/badge/SAFe-Certified-0E76A8?style=flat-square)
-![CSM](https://img.shields.io/badge/Scrum_CSM-Certified-6DB33F?style=flat-square)
-![Prosci](https://img.shields.io/badge/Prosci-Change_Management-5B2C8D?style=flat-square)
-![CCMP](https://img.shields.io/badge/CCMP-Change_Management-444444?style=flat-square)
-
----
-
-## Featured work
-
-Pinned repositories in this portfolio:
-
-| Repository | What it demonstrates |
-|---|---|
-| **[transformation-pmo-toolkit](https://github.com/gwojcieszak/transformation-pmo-toolkit)** | Reusable PMO governance kit — program charter, RAID log, RACI, stage-gate model, status &amp; benefits-realization templates |
-| **[erp-deployment-playbook](https://github.com/gwojcieszak/erp-deployment-playbook)** | Sanitized S/4HANA &amp; Workday cutover and go-live runbook — cutover schedule, hypercare plan, test strategy, command-center model |
-| **[process-mining-demo](https://github.com/gwojcieszak/process-mining-demo)** | Python (pm4py / pandas) analysis of a synthetic order-to-cash event log — process map, bottleneck and conformance analysis |
-| **[change-management-kit](https://github.com/gwojcieszak/change-management-kit)** | Prosci / CCMP-aligned change toolkit — stakeholder map, ADKAR assessment, communications plan, resistance-management framework |
-
-*All artifacts use synthetic data only.*
-
----
-
-## Focus areas
-
-- Operating-model and PMO design for enterprise transformation
-- SAP S/4HANA and Workday delivery governance and cutover excellence
-- Making process intelligence — mining and conformance — practical for delivery teams
-
-## Connect
-
-- **Based in** the Washington, DC metro · remote-friendly
