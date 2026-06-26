@@ -32,3 +32,44 @@ This profile is a working **portfolio of genericized, reusable delivery artifact
 ## Certifications
 
 ![PMP](https://img.shields.io/badge/PMP-Certified-0A66C2?style=flat-square)
+![CSM](https://img.shields.io/badge/Scrum_CSM-Certified-6DB33F?style=flat-square)
+![SAFe 5](https://img.shields.io/badge/SAFe_5-Certified-0E76A8?style=flat-square)
+![CCMP](https://img.shields.io/badge/CCMP-Certified-5B2C8D?style=flat-square)
+
+---
+
+## Featured work
+
+Pinned repositories in this portfolio:
+
+| Repository | What it demonstrates |
+|---|---|
+| **[agile-critical-path-delivery](https://github.com/gwojcieszak/agile-critical-path-delivery)** | Original thought-leadership paper — bridging Agile/Jira execution with critical-path management for enterprise delivery, with exhibits |
+| **[transformation-pmo-toolkit](https://github.com/gwojcieszak/transformation-pmo-toolkit)** | Reusable PMO governance kit — program charter, RAID log, RACI, stage-gate model, status & benefits-realization templates |
+| **[erp-deployment-playbook](https://github.com/gwojcieszak/erp-deployment-playbook)** | Sanitized S/4HANA & Workday cutover and go-live runbook — cutover schedule, hypercare plan, test strategy, command-center model |
+| **[process-mining-demo](https://github.com/gwojcieszak/process-mining-demo)** | Python (pm4py / pandas) analysis of a synthetic order-to-cash event log — process map, bottleneck and conformance analysis |
+| **[change-management-kit](https://github.com/gwojcieszak/change-management-kit)** | Prosci / CCMP-aligned change toolkit — stakeholder map, ADKAR assessment, communications plan, resistance-management framework |
+
+*All artifacts use synthetic data only.*
+
+---
+
+## Focus areas
+
+- Operating-model and PMO design for enterprise transformation
+- SAP S/4HANA and Workday delivery governance and cutover excellence
+- Making process intelligence — mining and conformance — practical for delivery teams
+
+## Connect
+
+- **Based in** New York, NY · open to travel · remote-friendly
+To put it on GitHub without ever handling a file:
+
+Go to github.com/gwojcieszak/gwojcieszak
+Tap the README.md file to open it
+Tap the pencil icon (edit)
+Select all the existing text and delete it, then paste what you copied above
+Tap Commit changes
+
+That's it — no download, no save, no file type to worry about. This works on a phone too.
+If you'd still rather have an openable file, tell me and I'll save it as a plain .txt instead, which opens on any device — you'd just rename it to README.md at the GitHub end.
