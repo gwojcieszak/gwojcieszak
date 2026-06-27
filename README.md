@@ -45,12 +45,11 @@ Pinned repositories in this portfolio:
 | Repository | What it demonstrates |
 |---|---|
 | **[agile-critical-path-delivery](https://github.com/gwojcieszak/agile-critical-path-delivery)** | Original thought-leadership paper — bridging Agile/Jira execution with critical-path management for enterprise delivery, with exhibits |
+| **[schedule-risk-monte-carlo](https://github.com/gwojcieszak/schedule-risk-monte-carlo)** | Monte Carlo schedule risk analysis — turns a single-date plan into a P50/P80/P90 completion-date confidence range with criticality index; the runnable companion to the paper above |
 | **[transformation-pmo-toolkit](https://github.com/gwojcieszak/transformation-pmo-toolkit)** | Reusable PMO governance kit — program charter, RAID log, RACI, stage-gate model, status & benefits-realization templates |
 | **[erp-deployment-playbook](https://github.com/gwojcieszak/erp-deployment-playbook)** | Sanitized S/4HANA & Workday cutover and go-live runbook — cutover schedule, hypercare plan, test strategy, command-center model |
 | **[process-mining-demo](https://github.com/gwojcieszak/process-mining-demo)** | Python (pm4py / pandas) analysis of a synthetic order-to-cash event log — process map, bottleneck and conformance analysis |
 | **[change-management-kit](https://github.com/gwojcieszak/change-management-kit)** | Prosci / CCMP-aligned change toolkit — stakeholder map, ADKAR assessment, communications plan, resistance-management framework |
-
-*All artifacts use synthetic data only.*
 
 ---
 
