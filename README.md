@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29677435/README.md)
-
 # Greg Wojcieszak
 
 ### Enterprise Transformation & Delivery Leadership &nbsp;|&nbsp; PMO · SAP S/4HANA · Workday · Process Intelligence
