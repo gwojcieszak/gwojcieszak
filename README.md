@@ -1,7 +1,7 @@
 
 # Greg Wojcieszak
 ﻿
-### Enterprise Transformation & Delivery Leadership &nbsp;|&nbsp; PMO · SAP S/4HANA · Workday · Process Intelligence
+### Enterprise Transformation & Delivery Leadership &nbsp;|&nbsp; PMO · SAP S/4HANA · Workday · Process Intelligence · AI Transformation
 ﻿
 Director-level program and transformation leader who turns complex, cross-functional change into governed, on-time delivery. I build the operating models, governance, and delivery playbooks that move enterprise programs from strategy to measurable outcomes — across both internal transformation and client-facing engagement delivery.
 ﻿
